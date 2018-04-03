@@ -1,0 +1,22 @@
+\contentsline {chapter}{\numberline {1}背景}{1}
+\contentsline {chapter}{\numberline {2}传统推荐系统}{2}
+\contentsline {section}{\numberline {2.1}主要算法介绍}{3}
+\contentsline {subsection}{\numberline {2.1.1}基于内容的推荐}{3}
+\contentsline {subsection}{\numberline {2.1.2}协同过滤推荐}{3}
+\contentsline {subsection}{\numberline {2.1.3}混合推荐}{4}
+\contentsline {section}{\numberline {2.2}传统算法存在的问题}{4}
+\contentsline {chapter}{\numberline {3}基于深度学习的推荐系统}{4}
+\contentsline {section}{\numberline {3.1}深度学习技术}{4}
+\contentsline {subsection}{\numberline {3.1.1}多层感知机（Multilayer Perceptron, MLP）}{4}
+\contentsline {subsection}{\numberline {3.1.2}自动编码器（Autoencoder，AE）}{6}
+\contentsline {subsection}{\numberline {3.1.3}卷积神经网络（Convolutional Neural Network，CNN）}{6}
+\contentsline {subsection}{\numberline {3.1.4}循环神经网络（Recurrent Neural Network，RNN）}{7}
+\contentsline {subsection}{\numberline {3.1.5}受限制玻尔兹曼机（Restricted Boltzmann Machine，RBM）}{8}
+\contentsline {section}{\numberline {3.2}深度学习在推荐领域的研究现状}{8}
+\contentsline {subsection}{\numberline {3.2.1}深度学习在基于内容的推荐系统中的应用}{9}
+\contentsline {subsection}{\numberline {3.2.2}深度学习在协同过滤中的应用}{10}
+\contentsline {section}{\numberline {3.3}基于深度学习的推荐系统的优势和存在的问题}{11}
+\contentsline {subsection}{\numberline {3.3.1}优势}{12}
+\contentsline {subsection}{\numberline {3.3.2}存在的问题}{12}
+\contentsline {chapter}{\numberline {4}总结与展望}{12}
+\contentsfinish 

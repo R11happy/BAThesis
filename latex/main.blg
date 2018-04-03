@@ -1,0 +1,123 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: data/eval.aux
+A level-1 auxiliary file: data/wenxianzongshu.aux
+Database file #1: data/survey.bib
+A bad cross reference---entry "CovingtonAS16YouTube"
+refers to entry "DBLP:conf/recsys/2016", which doesn't exist
+A bad cross reference---entry "DavidsonLLNVGGHLLS10Youtube"
+refers to entry "DBLP:conf/recsys/2010", which doesn't exist
+A bad cross reference---entry "OkuraTOT17Embedding"
+refers to entry "DBLP:conf/kdd/2017", which doesn't exist
+A bad cross reference---entry "WangWY15CDL"
+refers to entry "DBLP:conf/kdd/2015", which doesn't exist
+A bad cross reference---entry "ZhangYLXM16CKBE"
+refers to entry "DBLP:conf/kdd/2016", which doesn't exist
+A bad cross reference---entry "VincentLBM08Bengio"
+refers to entry "DBLP:conf/icml/2008", which doesn't exist
+A bad cross reference---entry "WangSY15SDAE"
+refers to entry "DBLP:conf/aaai/2015", which doesn't exist
+A bad cross reference---entry "GengZBC15IMAGE"
+refers to entry "DBLP:conf/iccv/2015", which doesn't exist
+A bad cross reference---entry "WuABSJ17RRN"
+refers to entry "DBLP:conf/wsdm/2017", which doesn't exist
+A bad cross reference---entry "SongEH16DL4TR"
+refers to entry "DBLP:conf/sigir/2016", which doesn't exist
+A bad cross reference---entry "0014SY16CRA"
+refers to entry "DBLP:conf/nips/2016", which doesn't exist
+A bad cross reference---entry "MelloZS07aRBMCF"
+refers to entry "DBLP:conf/geoinfo/2007", which doesn't exist
+A bad cross reference---entry "TruyenPV09BMCF"
+refers to entry "DBLP:conf/uai/2009", which doesn't exist
+A bad cross reference---entry "GongZ16HashtagAttention"
+refers to entry "DBLP:conf/ijcai/2016", which doesn't exist
+A bad cross reference---entry "ZhangWHHG17HashtagMulti"
+refers to entry "DBLP:conf/ijcai/2017", which doesn't exist
+A bad cross reference---entry "WangYRTZYW17ArticleRec"
+refers to entry "DBLP:conf/kdd/2017", which doesn't exist
+A bad cross reference---entry "OordDS13MusicRec"
+refers to entry "DBLP:conf/nips/2013", which doesn't exist
+A bad cross reference---entry "LiLJZ16HashtagRNN"
+refers to entry "DBLP:conf/coling/2016", which doesn't exist
+A bad cross reference---entry "OkuraTOT17NewsRecRNN"
+refers to entry "DBLP:conf/kdd/2017", which doesn't exist
+A bad cross reference---entry "SalakhutdinovMH07RBM"
+refers to entry "DBLP:conf/icml/2007", which doesn't exist
+A bad cross reference---entry "WuDZE16CDAE"
+refers to entry "DBLP:conf/wsdm/2016", which doesn't exist
+A bad cross reference---entry "SedhainMSX15AECF"
+refers to entry "DBLP:conf/www/2015c", which doesn't exist
+A bad cross reference---entry "GeorgievN13NONIID"
+refers to entry "DBLP:conf/icml/2013", which doesn't exist
+A bad cross reference---entry "MnihH07LBL"
+refers to entry "DBLP:conf/icml/2007", which doesn't exist
+A bad cross reference---entry "WangB11CTM"
+refers to entry "DBLP:conf/kdd/2011", which doesn't exist
+Warning--I didn't find a database entry for "王国霞2012个性化推荐系统综述"
+Warning--I didn't find a database entry for "DBLP:conf/kdd/2011"
+Warning--I didn't find a database entry for "DBLP:conf/icml/2007"
+Warning--I didn't find a database entry for "DBLP:conf/kdd/2017"
+Warning--I didn't find a database entry for "DBLP:conf/icml/2013"
+Warning--I didn't find a database entry for "DBLP:conf/www/2015c"
+Warning--I didn't find a database entry for "DBLP:conf/wsdm/2016"
+Warning--I didn't find a database entry for "DBLP:conf/coling/2016"
+Warning--I didn't find a database entry for "DBLP:conf/nips/2013"
+Warning--I didn't find a database entry for "DBLP:conf/ijcai/2017"
+Warning--I didn't find a database entry for "DBLP:conf/ijcai/2016"
+Warning--I didn't find a database entry for "DBLP:conf/uai/2009"
+Warning--I didn't find a database entry for "DBLP:conf/geoinfo/2007"
+Warning--I didn't find a database entry for "DBLP:conf/nips/2016"
+Warning--I didn't find a database entry for "DBLP:conf/sigir/2016"
+Warning--I didn't find a database entry for "DBLP:conf/wsdm/2017"
+Warning--I didn't find a database entry for "DBLP:conf/iccv/2015"
+Warning--I didn't find a database entry for "DBLP:conf/icml/2008"
+Warning--I didn't find a database entry for "DBLP:conf/aaai/2015"
+Warning--I didn't find a database entry for "DBLP:conf/kdd/2016"
+Warning--I didn't find a database entry for "DBLP:conf/kdd/2015"
+Warning--I didn't find a database entry for "DBLP:conf/recsys/2010"
+Warning--I didn't find a database entry for "DBLP:conf/recsys/2016"
+Warning--empty journal in HeJieYue
+You've used 42 entries,
+            1791 wiz_defined-function locations,
+            758 strings with 15185 characters,
+and the built_in function-call counts, 14496 in all, are:
+= -- 1346
+> -- 582
+< -- 28
++ -- 208
+- -- 166
+* -- 892
+:= -- 1968
+add.period$ -- 126
+call.type$ -- 42
+change.case$ -- 42
+chr.to.int$ -- 0
+cite$ -- 43
+duplicate$ -- 738
+empty$ -- 1393
+format.name$ -- 166
+if$ -- 3448
+int.to.chr$ -- 0
+int.to.str$ -- 42
+missing$ -- 42
+newline$ -- 213
+num.names$ -- 42
+pop$ -- 190
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 543
+stack$ -- 0
+substring$ -- 1211
+swap$ -- 347
+text.length$ -- 28
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 141
+width$ -- 44
+write$ -- 463
+(There were 25 error messages)

@@ -1,0 +1,294 @@
+\begin{thebibliography}{10}
+
+\bibitem{CovingtonAS16YouTube}
+Paul Covington, Jay Adams, and Emre Sargin.
+\newblock Deep neural networks for youtube recommendations.
+\newblock In {\em Proceedings of the 10th {ACM} Conference on Recommender
+  Systems, Boston, MA, USA, September 15-19, 2016}, pages 191--198, 2016.
+
+\bibitem{AdomaviciusT05}
+Gediminas Adomavicius and Alexander Tuzhilin.
+\newblock Toward the next generation of recommender systems: {A} survey of the
+  state-of-the-art and possible extensions.
+\newblock {\em {IEEE} Trans. Knowl. Data Eng.}, 17(6):734--749, 2005.
+
+\bibitem{VekariyaK12Hybrid}
+Vipul Vekariya and G.~R. Kulkarni.
+\newblock Hybrid recommender systems: Survey and experiments.
+\newblock In {\em 2012 Second International Conference on Digital Information
+  and Communication Technology and it's Applications (DICTAP), Bangkok,
+  Thailand, May 16-18, 2012}, pages 469--473, 2012.
+
+\bibitem{McNeeRK06Being}
+Sean~M. McNee, John Riedl, and Joseph~A. Konstan.
+\newblock Being accurate is not enough: how accuracy metrics have hurt
+  recommender systems.
+\newblock In {\em Extended Abstracts Proceedings of the 2006 Conference on
+  Human Factors in Computing Systems, {CHI} 2006, Montr{\'{e}}al, Qu{\'{e}}bec,
+  Canada, April 22-27, 2006}, pages 1097--1101, 2006.
+
+\bibitem{VargasC11Rank}
+Saul Vargas and Pablo Castells.
+\newblock Rank and relevance in novelty and diversity metrics for recommender
+  systems.
+\newblock In {\em Proceedings of the 2011 {ACM} Conference on Recommender
+  Systems, RecSys 2011, Chicago, IL, USA, October 23-27, 2011}, pages 109--116,
+  2011.
+
+\bibitem{ChengKHSCAACCIA16Wide&Deep}
+Heng{-}Tze Cheng, Levent Koc, Jeremiah Harmsen, Tal Shaked, Tushar Chandra,
+  Hrishi Aradhye, Glen Anderson, Greg Corrado, Wei Chai, Mustafa Ispir, Rohan
+  Anil, Zakaria Haque, Lichan Hong, Vihan Jain, Xiaobing Liu, and Hemal Shah.
+\newblock Wide {\&} deep learning for recommender systems.
+\newblock {\em CoRR}, abs/1606.07792, 2016.
+
+\bibitem{PengZZXHLZHG17Cross-Media}
+Yuxin Peng, Wenwu Zhu, Yao Zhao, Changsheng Xu, Qingming Huang, Hanqing Lu,
+  Qing{-}Hua Zheng, Tiejun Huang, and Wen Gao.
+\newblock Cross-media analysis and reasoning: advances and directions.
+\newblock {\em Frontiers of {IT} {\&} {EE}}, 18(1):44--57, 2017.
+
+\bibitem{Gomez-UribeH16Netflix}
+Carlos~A. Gomez{-}Uribe and Neil Hunt.
+\newblock The netflix recommender system: Algorithms, business value, and
+  innovation.
+\newblock {\em {ACM} Trans. Management Inf. Syst.}, 6(4):13:1--13:19, 2016.
+
+\bibitem{DavidsonLLNVGGHLLS10Youtube}
+James Davidson, Benjamin Liebald, Junning Liu, Palash Nandy, Taylor~Van Vleet,
+  Ullas Gargi, Sujoy Gupta, Yu~He, Mike Lambert, Blake Livingston, and
+  Dasarathi Sampath.
+\newblock The youtube video recommendation system.
+\newblock In {\em Proceedings of the 2010 {ACM} Conference on Recommender
+  Systems, RecSys 2010, Barcelona, Spain, September 26-30, 2010}, pages
+  293--296, 2010.
+
+\bibitem{OkuraTOT17Embedding}
+Shumpei Okura, Yukihiro Tagami, Shingo Ono, and Akira Tajima.
+\newblock Embedding-based news recommendation for millions of users.
+\newblock In {\em Proceedings of the 23rd {ACM} {SIGKDD} International
+  Conference on Knowledge Discovery and Data Mining, Halifax, NS, Canada,
+  August 13 - 17, 2017}, pages 1933--1942, 2017.
+
+\bibitem{VerbertMOWDBD12ContextAware}
+Katrien Verbert, Nikos Manouselis, Xavier Ochoa, Martin Wolpers, Hendrik
+  Drachsler, Ivana Bosnic, and Erik Duval.
+\newblock Context-aware recommender systems for learning: {A} survey and future
+  challenges.
+\newblock {\em {TLT}}, 5(4):318--335, 2012.
+
+\bibitem{WangWY15CDL}
+Hao Wang, Naiyan Wang, and Dit{-}Yan Yeung.
+\newblock Collaborative deep learning for recommender systems.
+\newblock In {\em Proceedings of the 21th {ACM} {SIGKDD} International
+  Conference on Knowledge Discovery and Data Mining, Sydney, NSW, Australia,
+  August 10-13, 2015}, pages 1235--1244, 2015.
+
+\bibitem{ZhangYLXM16CKBE}
+Fuzheng Zhang, Nicholas~Jing Yuan, Defu Lian, Xing Xie, and Wei{-}Ying Ma.
+\newblock Collaborative knowledge base embedding for recommender systems.
+\newblock In {\em Proceedings of the 22nd {ACM} {SIGKDD} International
+  Conference on Knowledge Discovery and Data Mining, San Francisco, CA, USA,
+  August 13-17, 2016}, pages 353--362, 2016.
+
+\bibitem{DengY14DLMA}
+Li~Deng and Dong Yu.
+\newblock Deep learning: Methods and applications.
+\newblock {\em Foundations and Trends in Signal Processing}, 7(3-4):197--387,
+  2014.
+
+\bibitem{abs-1801-07883DLS}
+Lei Zhang, Shuai Wang, and Bing Liu.
+\newblock Deep learning for sentiment analysis : {A} survey.
+\newblock {\em CoRR}, abs/1801.07883, 2018.
+
+\bibitem{VincentLBM08Bengio}
+Pascal Vincent, Hugo Larochelle, Yoshua Bengio, and Pierre{-}Antoine Manzagol.
+\newblock Extracting and composing robust features with denoising autoencoders.
+\newblock In {\em Machine Learning, Proceedings of the Twenty-Fifth
+  International Conference {(ICML} 2008), Helsinki, Finland, June 5-9, 2008},
+  pages 1096--1103, 2008.
+
+\bibitem{WangSY15SDAE}
+Hao Wang, Xingjian Shi, and Dit{-}Yan Yeung.
+\newblock Relational stacked denoising autoencoder for tag recommendation.
+\newblock In {\em Proceedings of the Twenty-Ninth {AAAI} Conference on
+  Artificial Intelligence, January 25-30, 2015, Austin, Texas, {USA.}}, pages
+  3052--3058, 2015.
+
+\bibitem{GengZBC15IMAGE}
+Xue Geng, Hanwang Zhang, Jingwen Bian, and Tat{-}Seng Chua.
+\newblock Learning image and user features for recommendation in social
+  networks.
+\newblock In {\em 2015 {IEEE} International Conference on Computer Vision,
+  {ICCV} 2015, Santiago, Chile, December 7-13, 2015}, pages 4274--4282, 2015.
+
+\bibitem{HochreiterS97LSTM}
+Sepp Hochreiter and J{\"{u}}rgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural Computation}, 9(8):1735--1780, 1997.
+
+\bibitem{ChoMBB14GRU}
+KyungHyun Cho, Bart van Merrienboer, Dzmitry Bahdanau, and Yoshua Bengio.
+\newblock On the properties of neural machine translation: Encoder-decoder
+  approaches.
+\newblock {\em CoRR}, abs/1409.1259, 2014.
+
+\bibitem{WuABSJ17RRN}
+Chao{-}Yuan Wu, Amr Ahmed, Alex Beutel, Alexander~J. Smola, and How Jing.
+\newblock Recurrent recommender networks.
+\newblock In {\em Proceedings of the Tenth {ACM} International Conference on
+  Web Search and Data Mining, {WSDM} 2017, Cambridge, United Kingdom, February
+  6-10, 2017}, pages 495--503, 2017.
+
+\bibitem{SongEH16DL4TR}
+Yang Song, Ali~Mamdouh Elkahky, and Xiaodong He.
+\newblock Multi-rate deep learning for temporal recommendation.
+\newblock In {\em Proceedings of the 39th International {ACM} {SIGIR}
+  conference on Research and Development in Information Retrieval, {SIGIR}
+  2016, Pisa, Italy, July 17-21, 2016}, pages 909--912, 2016.
+
+\bibitem{0014SY16CRA}
+Hao Wang, Xingjian Shi, and Dit{-}Yan Yeung.
+\newblock Collaborative recurrent autoencoder: Recommend while learning to fill
+  in the blanks.
+\newblock In {\em Advances in Neural Information Processing Systems 29: Annual
+  Conference on Neural Information Processing Systems 2016, December 5-10,
+  2016, Barcelona, Spain}, pages 415--423, 2016.
+
+\bibitem{MelloZS07aRBMCF}
+Carlos Eduardo~R. de~Mello, Geraldo Zimbr{\~{a}}o, and Jano~Moreira de~Souza.
+\newblock Extens{\~{a}}o do {WEKA} para m{\'{e}}todos de agrupamento com
+  restri{\c{c}}{\~{a}}o de contig{\"{u}}idade do rio de janeiro.
+\newblock In {\em {IX} Brazilian Symposium on Geoinformatics, 25-28 November,
+  Campos do Jord{\~{a}}o, S{\~{a}}o Paulo, Brazil}, pages 277--282, 2007.
+
+\bibitem{TruyenPV09BMCF}
+Tran~The Truyen, Dinh~Q. Phung, and Svetha Venkatesh.
+\newblock Ordinal boltzmann machines for collaborative filtering.
+\newblock In {\em {UAI} 2009, Proceedings of the Twenty-Fifth Conference on
+  Uncertainty in Artificial Intelligence, Montreal, QC, Canada, June 18-21,
+  2009}, pages 548--556, 2009.
+
+\bibitem{abs-1708-05031NCF}
+Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, and Tat{-}Seng
+  Chua.
+\newblock Neural collaborative filtering.
+\newblock {\em CoRR}, abs/1708.05031, 2017.
+
+\bibitem{GongZ16HashtagAttention}
+Yuyun Gong and Qi~Zhang.
+\newblock Hashtag recommendation using attention-based convolutional neural
+  network.
+\newblock In {\em Proceedings of the Twenty-Fifth International Joint
+  Conference on Artificial Intelligence, {IJCAI} 2016, New York, NY, USA, 9-15
+  July 2016}, pages 2782--2788, 2016.
+
+\bibitem{ZhangWHHG17HashtagMulti}
+Qi~Zhang, Jiawen Wang, Haoran Huang, Xuanjing Huang, and Yeyun Gong.
+\newblock Hashtag recommendation for multimodal microblog using co-attention
+  network.
+\newblock In {\em Proceedings of the Twenty-Sixth International Joint
+  Conference on Artificial Intelligence, {IJCAI} 2017, Melbourne, Australia,
+  August 19-25, 2017}, pages 3420--3426, 2017.
+
+\bibitem{WangYRTZYW17ArticleRec}
+Xuejian Wang, Lantao Yu, Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, and Jun
+  Wang.
+\newblock Dynamic attention deep model for article recommendation by learning
+  human editors' demonstration.
+\newblock In {\em Proceedings of the 23rd {ACM} {SIGKDD} International
+  Conference on Knowledge Discovery and Data Mining, Halifax, NS, Canada,
+  August 13 - 17, 2017}, pages 2051--2059, 2017.
+
+\bibitem{OordDS13MusicRec}
+Aaron van~den Oord, Sander Dieleman, and Benjamin Schrauwen.
+\newblock Deep content-based music recommendation.
+\newblock In {\em Advances in Neural Information Processing Systems 26: 27th
+  Annual Conference on Neural Information Processing Systems 2013. Proceedings
+  of a meeting held December 5-8, 2013, Lake Tahoe, Nevada, United States.},
+  pages 2643--2651, 2013.
+
+\bibitem{LiLJZ16HashtagRNN}
+Yang Li, Ting Liu, Jing Jiang, and Liang Zhang.
+\newblock Hashtag recommendation with topical attention-based {LSTM}.
+\newblock In {\em {COLING} 2016, 26th International Conference on Computational
+  Linguistics, Proceedings of the Conference: Technical Papers, December 11-16,
+  2016, Osaka, Japan}, pages 3019--3029, 2016.
+
+\bibitem{OkuraTOT17NewsRecRNN}
+Shumpei Okura, Yukihiro Tagami, Shingo Ono, and Akira Tajima.
+\newblock Embedding-based news recommendation for millions of users.
+\newblock In {\em Proceedings of the 23rd {ACM} {SIGKDD} International
+  Conference on Knowledge Discovery and Data Mining, Halifax, NS, Canada,
+  August 13 - 17, 2017}, pages 1933--1942, 2017.
+
+\bibitem{SalakhutdinovMH07RBM}
+Ruslan Salakhutdinov, Andriy Mnih, and Geoffrey~E. Hinton.
+\newblock Restricted boltzmann machines for collaborative filtering.
+\newblock In {\em Machine Learning, Proceedings of the Twenty-Fourth
+  International Conference {(ICML} 2007), Corvallis, Oregon, USA, June 20-24,
+  2007}, pages 791--798, 2007.
+
+\bibitem{WuDZE16CDAE}
+Yao Wu, Christopher DuBois, Alice~X. Zheng, and Martin Ester.
+\newblock Collaborative denoising auto-encoders for top-n recommender systems.
+\newblock In {\em Proceedings of the Ninth {ACM} International Conference on
+  Web Search and Data Mining, San Francisco, CA, USA, February 22-25, 2016},
+  pages 153--162, 2016.
+
+\bibitem{SedhainMSX15AECF}
+Suvash Sedhain, Aditya~Krishna Menon, Scott Sanner, and Lexing Xie.
+\newblock Autorec: Autoencoders meet collaborative filtering.
+\newblock In {\em Proceedings of the 24th International Conference on World
+  Wide Web Companion, {WWW} 2015, Florence, Italy, May 18-22, 2015 - Companion
+  Volume}, pages 111--112, 2015.
+
+\bibitem{CFSDAE}
+Florian Strub and J{\'e}r{\'e}mie Mary.
+\newblock {Collaborative Filtering with Stacked Denoising AutoEncoders and
+  Sparse Inputs}.
+\newblock In {\em {NIPS Workshop on Machine Learning for eCommerce}}, Montreal,
+  Canada, December 2015.
+
+\bibitem{GeorgievN13NONIID}
+Kostadin Georgiev and Preslav Nakov.
+\newblock A non-iid framework for collaborative filtering with restricted
+  boltzmann machines.
+\newblock In {\em Proceedings of the 30th International Conference on Machine
+  Learning, {ICML} 2013, Atlanta, GA, USA, 16-21 June 2013}, pages 1148--1156,
+  2013.
+
+\bibitem{HeJieYue}
+J.-Y He and B~Ma.
+\newblock Based on real-valued conditional restricted boltzmann machine and
+  social network for collaborative filtering.
+\newblock 39:183--195, 01 2016.
+
+\bibitem{LiuWW17RLBL}
+Qiang Liu, Shu Wu, and Liang Wang.
+\newblock Multi-behavioral sequential prediction with recurrent log-bilinear
+  model.
+\newblock {\em {IEEE} Trans. Knowl. Data Eng.}, 29(6):1254--1267, 2017.
+
+\bibitem{MnihH07LBL}
+Andriy Mnih and Geoffrey~E. Hinton.
+\newblock Three new graphical models for statistical language modelling.
+\newblock In {\em Machine Learning, Proceedings of the Twenty-Fourth
+  International Conference {(ICML} 2007), Corvallis, Oregon, USA, June 20-24,
+  2007}, pages 641--648, 2007.
+
+\bibitem{WangB11CTM}
+Chong Wang and David~M. Blei.
+\newblock Collaborative topic modeling for recommending scientific articles.
+\newblock In {\em Proceedings of the 17th {ACM} {SIGKDD} International
+  Conference on Knowledge Discovery and Data Mining, San Diego, CA, USA, August
+  21-24, 2011}, pages 448--456, 2011.
+
+\bibitem{ZhangYS17aaSurveyPerspect}
+Shuai Zhang, Lina Yao, and Aixin Sun.
+\newblock Deep learning based recommender system: {A} survey and new
+  perspectives.
+\newblock {\em CoRR}, abs/1707.07435, 2017.
+
+\end{thebibliography}
